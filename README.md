@@ -30,7 +30,6 @@ Before you begin, ensure you have installed:
 git clone https://github.com/yourusername/virtual-cloth-try-on-ai.git
 cd virtual-cloth-try-on-ai
 ```
-
 2. Install dependencies:
 ```bash
 npm install

@@ -82,13 +82,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Ali Hamza Kamboh ([@ahkamboh](https://github.com/ahkamboh))
 
-## License
 
-MIT License
-
-
-## Hugging Face Model
-
-- OOTDiffusion model by [ahkamboh](https://huggingface.co/spaces/ahkamboh/Change-cloth-AI)
-
-- Next.js framework by Vercel
